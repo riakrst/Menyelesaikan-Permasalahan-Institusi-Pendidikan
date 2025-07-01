@@ -6,13 +6,13 @@ import joblib
 
 # Mapping data
 marital_status_dict = {
-    "lajang": 1,
-    "menikah": 2,
-    "duda/janda": 3,
-    "cerai": 4,
-    "kumpul kebo": 5,
-    "pisah hukum": 6
-}
+    "single": 1,
+    "married": 2,
+    "widower": 3,
+    "divorced": 4,
+    "facto union": 5,
+    "legally separated": 6
+} 
 
 application_mode_dict = {
     "fase ke-1 - kontingen umum": 1,
