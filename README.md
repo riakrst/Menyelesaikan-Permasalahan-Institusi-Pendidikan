@@ -44,7 +44,7 @@ Untuk menjawab tantangan tingginya tingkat dropout di Jaya Jaya Institut, telah 
 - **Email akses:** root@mail.com
 - **Password akses:** root123
 - **File Metabase DB:** metabase.db.mv.db (sudah disertakan dalam repositori)
-- **URL Lokal:** http://localhost:3001
+- **URL Lokal:** http://localhost:3002
 - **Screenshot:** folder riakrst-dashboard (terlampir)
 
 ### Insight Visualisasi:
