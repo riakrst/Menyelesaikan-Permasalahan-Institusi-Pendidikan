@@ -93,6 +93,8 @@ streamlit run app.py
 - Isi seluruh data mahasiswa pada form input yang tersedia di sidebar kiri, seperti nilai semester, status beasiswa, jumlah mata kuliah yang diambil/disetujui, dan lainnya.
 - Setelah semua data terisi, klik tombol "Prediksi Dropout" di bagian bawah sidebar.
 - Hasil prediksi akan langsung ditampilkan di bagian utama (main panel) aplikasi, menunjukkan apakah mahasiswa tersebut berpotensi melakukan dropout atau tidak.
+![image](https://github.com/user-attachments/assets/8cdc3711-7de3-4bbe-8159-4fc4ccc8a1ab)
+
 
 ## Conclusion
 Berdasarkan analisis data performa mahasiswa dari Jaya Jaya Institut, kami menemukan bahwa dropout dipengaruhi oleh berbagai faktor akademik, administratif, dan sosial.
