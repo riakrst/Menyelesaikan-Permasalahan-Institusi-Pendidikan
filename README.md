@@ -72,7 +72,7 @@ Untuk menjawab tantangan tingginya tingkat dropout di Jaya Jaya Institut, telah 
 ![image](https://github.com/user-attachments/assets/cd953e3c-034b-47c1-ae8b-514b82262e18)
 
 ## Menjalankan Sistem Machine Learning
-Prototype model prediksi dropout dikembangkan menggunakan Streamlit dan sudah dideploy ke Streamlit Community Cloud.
+Prototype model prediksi dropout dikembangkan menggunakan XGBoost yang telah dilakukan proses pemodelannya pada file Submission_2.ipynb. Model kemudian diintegrasikan ke aplikasi Streamlit untuk memudahkan pengguna melakukan prediksi secara interaktif.
 
 Aplikasi ini memungkinkan user untuk:
 - Memasukkan data baru mahasiswa
