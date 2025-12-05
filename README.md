@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Institusi Pendidikan
+# Proyek Akhir: Menyelesaikan Permasalahan Institusi Pendidikan (Dropout Risk Detection for Educational Institutions)
 
 ## Business Understanding
 Jaya Jaya Institut merupakan institusi pendidikan tinggi yang telah berdiri sejak tahun 2000 dan telah menghasilkan banyak lulusan berprestasi. Namun, salah satu tantangan utama yang sedang mereka hadapi adalah tingginya angka dropout atau mahasiswa yang tidak menyelesaikan pendidikannya.
